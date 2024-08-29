@@ -1,3 +1,49 @@
+Cheers with Tea ☕🚀
+
+Welcome to Cheers with Tea, a crowdfunding platform that aims to bring dreams to life! Our platform offers a space for creators to share their projects and connect with supporters. This README will guide you through the installation, usage, and contribution guidelines for the project.
+
+*****Point to be noted, make and use your own ".env" *****
+
+Features 🔑
+1.User Authentication: Secure login system to access the platform using modern authentication methods.
+2.Customizable Profile: Personalized profiles for users to showcase their projects and interact with others.
+3.Payment Integration: Supports multiple payment methods to accept contributions securely.
+4.Responsive Design: Fully optimized for all devices, providing a seamless experience on desktops, tablets, and smartphones.
+
+
+Tech Stack 💻
+Next.js: A React-based framework for server-side rendering and static site generation.
+MongoDB: A NoSQL database for storing user data, projects, and transactions.
+Tailwind CSS: A utility-first CSS framework for rapid UI development and styling.
+
+
+Getting Started 🚀
+Prerequisites
+Before you begin, ensure you have the following installed:
+
+Node.js (v14.x or later)
+MongoDB (locally or via cloud)
+Git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
