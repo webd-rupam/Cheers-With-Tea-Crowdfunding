@@ -7,7 +7,7 @@ Welcome to Cheers with Tea, a crowdfunding platform that aims to bring dreams to
 Features 🔑
 1.User Authentication: Secure login system to access the platform using modern authentication methods.
 2.Customizable Profile: Personalized profiles for users to showcase their projects and interact with others.
-3.Payment Integration: Supports multiple payment methods to accept contributions securely.
+3.Payment Integration: Supports payment method to accept contributions securely.
 4.Responsive Design: Fully optimized for all devices, providing a seamless experience on desktops, tablets, and smartphones.
 
 
